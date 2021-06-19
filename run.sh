@@ -1,5 +1,5 @@
 #! /bin/bash
 
-python3 password.py
+python3 password.py $@
 
 
